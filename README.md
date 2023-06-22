@@ -1,4 +1,4 @@
-### iOS Developer 👋
-<a href="https://www.instagram.com/xixn2._8/">
-  <img src="Instagram.png" alt="Instagram" width="35" height="35" />
+<h3 style="display: inline">iOS Developer 👋</h3>
+<a href="https://www.instagram.com/xixn2._8/" style="display: inline">
+  <img src="Instagram.png" alt="Instagram" width="35" height="35"/>
 </a>
