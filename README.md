@@ -3,7 +3,7 @@
   <img src="Instagram.png" alt="Instagram" width="35" height="35"/>
 </a>
 <a href="http://gsm.gen.hs.kr/main/main.php" style="display: inline">
-  <img src="somago.png" alt="somago" width="35" height="35"/>
+  <img src="somagologo.png" alt="somago" width="35" height="35"/>
 
 
  <div>
