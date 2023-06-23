@@ -4,7 +4,7 @@
 </a>
 <a href="http://gsm.gen.hs.kr/main/main.php" style="display: inline">
   <img src="somagologo.png" alt="somago" width="35" height="35"/>
-
+</a>
 
  <div>
    
