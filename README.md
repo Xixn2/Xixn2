@@ -9,6 +9,9 @@
  <a href="https://www.instagram.com/xixn2._8/">
   <img src="https://img.shields.io/badge/Facebook-%231877F2?style=flat-square&logo=facebook&logoColor=white"/>
 </a
+<a href="https://mail.naver.com/">
+  <img src="https://img.shields.io/badge/N%20Mail-%2303C75A?style=flat-square&logo=naver&logoColor=white"/>
+</a>
 </div>
 
   <div>
