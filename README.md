@@ -8,7 +8,8 @@
   <div></div>
 <h3 style="display: inline">What I'm interested in</h3>
 <img src="https://img.shields.io/badge/Swift-%23F05138?style=flat-square&logo=swift&logoColor=orange"/>
-<img src="https://img.shields.io/badge/iOS-%000000?style=flat-square&logo=ios&logoColor=white"/>
+<img src="https://img.shields.io/badge/iOS-%23000000?style=flat-square&logo=ios&logoColor=white"/>
+
 </div>
  <div>
    
