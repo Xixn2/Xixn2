@@ -13,8 +13,9 @@
 <img src="https://img.shields.io/badge/css-%231572B6?style=flat-square&logo=css3&logoColor=white"/>
 <img src="https://img.shields.io/badge/js-%23F7DF1E?style=flat-square&logo=javascript&logoColor=white"/>
 <img src="https://img.shields.io/badge/github-%23181717?style=flat-square&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/github-%23A8B9CC?style=flat-square&logo=c&logoColor=white"/>
-<img src="https://img.shields.io/badge/github-%3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/c-%23A8B9CC?style=flat-square&logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/python-%233776AB?style=flat-square&logo=python&logoColor=white"/>
+
 
 
 
