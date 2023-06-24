@@ -6,7 +6,7 @@
   <img src="Instagram.png" alt="Instagram" width="35" height="35"/>
 </a>
   <div>
-<h3 style="display: inline">What I'm interested in</h3>
+<h3 style="display: inline">🤔What I'm interested in</h3>
 <img src="https://img.shields.io/badge/Swift-%23F05138?style=flat-square&logo=swift&logoColor=white"/>
 <img src="https://img.shields.io/badge/iOS-%23000000?style=flat-square&logo=apple&logoColor=white"/>
 <img src="https://img.shields.io/badge/Html-%23E34F26?style=flat-square&logo=html5&logoColor=white"/>
@@ -18,7 +18,7 @@
 </div>
 
 <div>
-<h3 style="display: inline">Tool</h3>
+<h3 style="display: inline">🔨Tool</h3>
 <img src="https://img.shields.io/badge/Xcode-%23147EFB?style=flat-square&logo=xcode&logoColor=white"/>
 <img src="https://img.shields.io/badge/ Visual%20Studio%20Code-%23007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
 </div>
