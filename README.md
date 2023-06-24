@@ -4,7 +4,10 @@
 <h3 style="display: inline">📢Here you can talk at me</h3>
 <a href="https://www.instagram.com/xixn2._8/" style="display: inline">
   <img src="Instagram.png" alt="Instagram" width="35" height="35"/>
-  <img src="https://img.shields.io/badge/Instagram-#E4405F?style=flat-square&logo=xcode&logoColor=white"/>
+  <a href="https://www.instagram.com/xixn2._8/">
+  <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=flat-square&logo=instagram&logoColor=white"/>
+</a>
+
 </a>
   <div>
 <h3 style="display: inline">🤔What I'm interested in</h3>
