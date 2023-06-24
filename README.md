@@ -10,4 +10,7 @@
    
  <img src="https://github.com/xixn/xixn/blob/main/68747470733a2f2f63756c746f667468657061727479706172726f742e636f6d2f706172726f74732f68642f676974687562706172726f742e676966.gif" width="30" height="30"></img>
 <img src="https://github.com/xixn/xixn/blob/main/68747470733a2f2f63756c746f667468657061727479706172726f742e636f6d2f706172726f74732f68642f6c6170746f705f706172726f742e676966.gif" width="30" height="30"></img>
+<img src="ㅋ.gif" width="30" height="30"></img>
+<img src="ㅋㅋ.gif" width="30" height="30"></img>
+<img src="ㅋㅋㅋ.gif" width="30" height="30"></img>
 </div>
