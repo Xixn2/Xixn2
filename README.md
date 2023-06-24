@@ -1,9 +1,11 @@
 <h1>Hello, I'm Jiwan SEO 👋</h1>
 <h2 style="display: inline">iOS Developer 🍎</h2>
+<div>
 <h2 style="display: inline">📢Here you can talk at me</h2>
 <a href="https://www.instagram.com/xixn2._8/" style="display: inline">
   <img src="Instagram.png" alt="Instagram" width="35" height="35"/>
 </a>
+</div>
 <a href="http://gsm.gen.hs.kr/main/main.php" style="display: inline">
   <img src="somagologo.png" alt="somago" width="35" height="35"/>
 </a>
