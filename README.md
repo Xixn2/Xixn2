@@ -7,11 +7,11 @@
 </a>
   <div></div>
 <h3 style="display: inline">What I'm interested in</h3>
-<img src="https://img.shields.io/badge/Swift-%23F05138?style=flat-square&logo=swift&logoColor=orange"/>
+<img src="https://img.shields.io/badge/Swift-%23F05138?style=flat-square&logo=swift&logoColor=white"/>
 <img src="https://img.shields.io/badge/iOS-%23000000?style=flat-square&logo=apple&logoColor=white"/>
-<img src="https://img.shields.io/badge/Html-%23E34F26?style=flat-square&logo=html5&logoColor=orange"/>
-<img src="https://img.shields.io/badge/css-%231572B6?style=flat-square&logo=css3&logoColor=blue"/>
-<img src="https://img.shields.io/badge/js-%23F7DF1E?style=flat-square&logo=javascript&logoColor=yellow"/>
+<img src="https://img.shields.io/badge/Html-%23E34F26?style=flat-square&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/css-%231572B6?style=flat-square&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/js-%23F7DF1E?style=flat-square&logo=javascript&logoColor=white"/>
 
 
 
