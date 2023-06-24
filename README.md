@@ -9,21 +9,6 @@
  <a href="https://www.instagram.com/xixn2._8/">
   <img src="https://img.shields.io/badge/Facebook-%231877F2?style=flat-square&logo=facebook&logoColor=white"/>
 </a
-<a href="javascript:void(0);" onclick="openEmailClient()">
-  <img src="https://img.shields.io/badge/N%20Mail-%2303C75A?style=flat-square&logo=naver&logoColor=white" />
-</a>
-
-<script>
-function openEmailClient() {
-  var emailAddress = "ssbkh0802@naver.com"; // 본인의 이메일 주소로 변경
-  var subject = "Jiwan's Naver Mail"; // 이메일 제목을 원하는 대로 변경
-  var body = "If you have any questions or want to say something, please write it down"; // 이메일 내용을 원하는 대로 변경
-  
-  var mailtoUrl = "mailto:" + encodeURIComponent(emailAddress) + "?subject=" + encodeURIComponent(subject) + "&body=" + encodeURIComponent(body);
-  
-  window.location.href = mailtoUrl;
-}
-</script>
 
 </div>
 
