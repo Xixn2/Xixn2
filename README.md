@@ -5,7 +5,7 @@
 <a href="https://www.instagram.com/xixn2._8/" style="display: inline">
   <img src="Instagram.png" alt="Instagram" width="35" height="35"/>
 </a>
-  <div></div>
+  <div>
 <h3 style="display: inline">What I'm interested in</h3>
 <img src="https://img.shields.io/badge/Swift-%23F05138?style=flat-square&logo=swift&logoColor=white"/>
 <img src="https://img.shields.io/badge/iOS-%23000000?style=flat-square&logo=apple&logoColor=white"/>
@@ -15,13 +15,6 @@
 <img src="https://img.shields.io/badge/github-%23181717?style=flat-square&logo=github&logoColor=white"/>
 <img src="https://img.shields.io/badge/c-%23A8B9CC?style=flat-square&logo=c&logoColor=white"/>
 <img src="https://img.shields.io/badge/python-%233776AB?style=flat-square&logo=python&logoColor=white"/>
-
-
-
-
-
-
-
 </div>
  <div>
    
