@@ -20,7 +20,7 @@
 <div>
 <h3 style="display: inline">Tool</h3>
 <img src="https://img.shields.io/badge/Xcode-%23147EFB?style=flat-square&logo=xcode&logoColor=white"/>
-<img src="https://img.shields.io/badge/Visual%20Studio%20Code-%23007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
+<img src="https://img.shields.io/badge/ Visual%20Studio%20Code-%23007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
 </div>
 
  <div>
