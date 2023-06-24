@@ -6,10 +6,6 @@
   <img src="Instagram.png" alt="Instagram" width="35" height="35"/>
 </a>
 </div>
-<a href="http://gsm.gen.hs.kr/main/main.php" style="display: inline">
-  <img src="somagologo.png" alt="somago" width="35" height="35"/>
-</a>
-
  <div>
    
  <img src="https://github.com/xixn/xixn/blob/main/68747470733a2f2f63756c746f667468657061727479706172726f742e636f6d2f706172726f74732f68642f676974687562706172726f742e676966.gif" width="30" height="30"></img>
