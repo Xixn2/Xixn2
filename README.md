@@ -39,6 +39,7 @@
 <img src="ㅋㅋㅋㅋ.gif" width="30" height="30"></img>
 <img src="ㅋㅋ.gif" width="30" height="30"></img>
 <img src="ㅋㅋㅋ.gif" width="30" height="30"></img>
+<img src="1.gif" width="30" height="30"></img>
 </div>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ssbkh0802)](https://solved.ac/ssbkh0802/) 
