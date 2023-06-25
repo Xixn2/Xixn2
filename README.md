@@ -48,7 +48,7 @@
 <img src="1111111.gif" width="30" height="30"></img>
 <img src="11111111.gif" width="30" height="30"></img>
 <img src="111111111.gif" width="30" height="30"></img>
-<img src="1111111111.gif" width="30" height="30"></img>
+<img src="1111111111.gif" width="33" height="33"></img>
 </div>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ssbkh0802)](https://solved.ac/ssbkh0802/) 
