@@ -6,9 +6,10 @@
   <a href="https://www.instagram.com/xixn2._8/">
   <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=flat-square&logo=instagram&logoColor=white"/>
 </a
- <a href="https://www.facebook.com/profile.php?id=100064718131706">
+<a href="https://www.facebook.com/profile.php?id=100064718131706">
   <img src="https://img.shields.io/badge/Facebook-%231877F2?style=flat-square&logo=facebook&logoColor=white"/>
-</a
+</a>
+
 
 </div>
 
