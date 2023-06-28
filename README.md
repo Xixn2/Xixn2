@@ -1,7 +1,7 @@
 <h1>Hello, I'm Jiwan SEO 👋</h1>
 <h3 style="display: inline">iOS Developer 🍎</h3>
 <div>
-<h3 style="display: inline">📢Here you can talk at me</h3>
+
 
 
 <a href="https://www.instagram.com/xixn2._8/">
