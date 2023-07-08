@@ -46,7 +46,7 @@
 <img src="11111.gif" width="30" height="30"></img>
 <img src="111111.gif" width="30" height="30"></img>
 <img src="1111111.gif" width="30" height="30"></img>
-<img src="11111111.gif" width="30" height="30"></img>
+
 
 </div>
 
