@@ -1,5 +1,5 @@
 <h1>Hello, I'm Jiwan SEO 👋</h1>
-<h3 style="display: inline">iOS Developer 🍎</h3>
+<h3 style="display: inline; text-decoration:none">iOS Developer 🍎</h3>
 <div>
 
 <h3 style="display: inline">📢Here you can talk at me</h3>
