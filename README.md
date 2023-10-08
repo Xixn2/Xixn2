@@ -1,5 +1,5 @@
  <!--iOS Developer-->
-<h1>Hello, I'm Jiwan SEO !! 👋</h1>
+<h1>Hello, I'm Jiwan SEO ! 👋</h1>
 <h3 style="display: inline; text-decoration:none">iOS Developer 🍎</h3>
 <div>
 
