@@ -1,6 +1,6 @@
  <!--iOS Developer-->
 <h1>Hello, I'm Jiwan SEO ! ✌🏻</h1>
-<h3 style="display: inline; text-decoration:none">iOS Developer 🍎</h3>
+<h2 style="display: inline; text-decoration:none">iOS Developer 🍎</h3>
 <div>
 
 <h3 style="display: inline">📢ㅣHere you can talk at me</h3>
