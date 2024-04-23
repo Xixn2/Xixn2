@@ -3,7 +3,7 @@
 <h3 style="display: inline; text-decoration:none">iOS Developer 🍎</h3>
 <div>
 
-<h3 style="display: inline">📢Here you can talk at me</h3>
+<h3 style="display: inline">📢ㅣHere you can talk at me</h3>
 
 <a href="https://www.instagram.com/xixn2._8/">
   <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=flat-square&logo=instagram&logoColor=white"/>
@@ -16,10 +16,18 @@
 </div>
 
   <div>
-<h3 style="display: inline">🤔What I'm interested in</h3>
-<img src="https://img.shields.io/badge/Swift-%23F05138?style=flat-square&logo=swift&logoColor=white"/>
-<img src="https://img.shields.io/badge/iOS-%23000000?style=flat-square&logo=apple&logoColor=white"/>
-<img src="https://img.shields.io/badge/git-%23181717?style=flat-square&logo=github&logoColor=white"/>
+<h3 style="display: inline">🤔ㅣWhat I'm interested in</h3>
+<code><img height="30" src="https://skills.thijs.gg/icons?i=swift&theme=light"></code>
+<code><img height="30" src="https://skills.thijs.gg/icons?i=apple&theme=light"></code>
+<code><img height="30" src="https://skills.thijs.gg/icons?i=git&theme=light"></code>
+<code><img height="30" src="https://skills.thijs.gg/icons?i=kotlin&theme=light"></code>
+<code><img height="30" src="https://skills.thijs.gg/icons?i=java&theme=light"></code>
+<code><img height="30" src="https://skills.thijs.gg/icons?i=python&theme=light"></code>
+
+
+
+
+
 </div>
 
 <div>
