@@ -18,7 +18,7 @@
   <div>
 <h3 style="display: inline">🤔ㅣWhat I'm interested in</h3>
 
-![Skill](https://skillicons.dev/icons?i=swift,kotlin,python,java,apple&theme=dark)
+![Skill](https://skillicons.dev/icons?i=swift,kotlin,dart,python,java,apple&theme=dark)
 
 
 
