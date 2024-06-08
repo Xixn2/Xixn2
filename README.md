@@ -17,13 +17,8 @@
 
   <div>
 <h3 style="display: inline">🤔ㅣWhat I'm interested in</h3>
-<code><img height="30" src="https://skills.thijs.gg/icons?i=swift&theme=light"></code>
-<code><img height="30" src="https://skills.thijs.gg/icons?i=apple&theme=light"></code>
-<code><img height="30" src="https://skills.thijs.gg/icons?i=git&theme=light"></code>
-<code><img height="30" src="https://skills.thijs.gg/icons?i=kotlin&theme=light"></code>
-<code><img height="30" src="https://skills.thijs.gg/icons?i=java&theme=light"></code>
-<code><img height="30" src="https://skills.thijs.gg/icons?i=python&theme=light"></code>
 
+![Skill](https://skillicons.dev/icons?i=swift,kotlin,python,java,apple&theme=dark)
 
 
 
