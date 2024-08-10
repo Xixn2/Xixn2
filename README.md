@@ -1,7 +1,9 @@
- <!--iOS Developer-->
-<h1>Hello, I'm Jiwan SEO ! ✌🏻</h1>
-<h2 style="display: inline; text-decoration:none">iOS Developer 🍎</h3>
-<div>
+## It's me! ✌🏻
+안녕하세요, 저는 **iOS 개발자**로 성장하기 위해  <br>
+남들이 시도하지 않는 것들을 도전하는 **서지완**입니다.<br>
+
+Hello, I'm **Seo Ji-wan**, an **iOS developer** aiming to grow <br>
+by taking on challenges that others don't attempt. <br>
 
 <h3 style="display: inline">📢ㅣHere you can talk at me</h3>
 
