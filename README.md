@@ -9,13 +9,12 @@ by taking on challenges that others don't attempt. <br>
 <h3 style="display: inline">📢ㅣHere you can talk at me</h3>
 
 <a href="https://www.instagram.com/xixn2._8/">
-  <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=flat-square&logo=instagram&logoColor=white"/>
-</a>
-<a href="https://www.facebook.com/profile.php?id=100064718131706">
-  <img src="https://img.shields.io/badge/Facebook-%231877F2?style=flat-square&logo=facebook&logoColor=white"/>
-</a>
+  <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=flat-square&logo=instagram&logoColor=white"/>  
+</a> 
 
-
+**Mail**: s23050@gsm.hs.kr  
+**Discord**: Xixn2
+ 
 </div>
 
   <div>
