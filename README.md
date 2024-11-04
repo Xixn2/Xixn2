@@ -12,7 +12,7 @@ by taking on challenges that others don't attempt. <br>
   <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=flat-square&logo=instagram&logoColor=white"/>  
 </a> 
 
-**Mail**: Dev.SeoJiwan@gmail.com  
+**Mail**: developer.seojiwan@gmail.com
 **Discord**: Xixn2
  
 </div>
