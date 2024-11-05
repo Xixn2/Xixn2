@@ -8,7 +8,7 @@ by taking on challenges that others don't attempt. <br>
 
 <h3 style="display: inline">📢ㅣHere you can talk at me</h3>
 
-<a href="mailto://developer.seojiwan@gmail.com">
+<a href="mailto:developer.seojiwan@gmail.com">
   <img src="https://img.shields.io/badge/Email-%23000077?style=flat-square&logo=gmail&logoColor=white"/>  
 </a> 
 <a href="https://www.instagram.com/xixn2._8/">
