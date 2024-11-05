@@ -8,12 +8,12 @@ by taking on challenges that others don't attempt. <br>
 
 <h3 style="display: inline">📢ㅣHere you can talk at me</h3>
 
+<a href="mailto://developer.seojiwan@gmail.com">
+  <img src="https://img.shields.io/badge/Email-%23000077?style=flat-square&logo=gmail&logoColor=white"/>  
+</a> 
 <a href="https://www.instagram.com/xixn2._8/">
   <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=flat-square&logo=instagram&logoColor=white"/>  
-</a> 
-
-**Mail**: developer.seojiwan@gmail.com  
-**Discord**: Xixn2
+</a>   
  
 </div>
 
