@@ -8,7 +8,7 @@ by taking on challenges that others don't attempt.
 
 ### 📢 Here you can talk at me
 
-<a href="mailto:developer.seojiwan@gmail.com">
+<a href="mailto:me@xixn2.dev">
   <img src="https://img.shields.io/badge/Email-%23000077?style=flat-square&logo=gmail&logoColor=white"/>  
 </a> 
 <a href="https://www.instagram.com/xixn2._8/">
