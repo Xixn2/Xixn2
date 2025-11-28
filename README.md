@@ -17,6 +17,6 @@ by taking on challenges that others don't attempt.
 
 ### 🤔 What I'm interested in
 
-<image src="https://skillicons.dev/icons?i=swift,kotlin,dart,python,java,apple&theme=dark" alt="skills" height="35" />
+<image src="https://skillicons.dev/icons?i=swift,kotlin,dart,javascript,python,java,apple&theme=dark" alt="skills" height="35" />
 
 
