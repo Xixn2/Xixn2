@@ -5,18 +5,3 @@
 
 Hello, I'm **Jiwan Seo**, an **iOS developer** aiming to grow  
 by taking on challenges that others don't attempt.
-
-### 📢 Here you can talk at me
-
-<a href="mailto:developer.seojiwan@gmail.com">
-  <img src="https://img.shields.io/badge/Email-%23000077?style=flat-square&logo=gmail&logoColor=white"/>  
-</a> 
-<a href="https://www.instagram.com/xixn2._8/">
-  <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=flat-square&logo=instagram&logoColor=white"/>  
-</a>   
-
-### 🤔 What I'm interested in
-
-<image src="https://skillicons.dev/icons?i=swift,kotlin,dart,javascript,python,java,apple&theme=dark" alt="skills" height="35" />
-
-
